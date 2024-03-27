@@ -1,0 +1,9 @@
+scannerclass: march 2,2024 notes
+Scanner is a class that helps us input data from the user from keyboard
+classes are diveded in to Matters are blocks of code
+
+//logical operators:'are used to combine multiple conditions
+there are three logical operator in Java
+-and "&&"
+-OR "||"
+-not "!"

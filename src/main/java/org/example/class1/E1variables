@@ -1,0 +1,19 @@
+package org.example;
+
+import java.sql.SQLOutput;
+
+public class e1variables {
+
+    public static void main(String[] args) {
+
+
+        byte age= 80;
+        System.out.println(age);
+
+        short number= 10000;
+        int population= 10000000;
+        long distamcefromsun =12555555555L;
+        System.out.println(population);
+
+    }
+}
